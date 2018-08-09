@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>在线交流</title>
+		<link href="assets/css/bootstrap.css" rel="stylesheet"/>
+		<link href="assets/css/default.css" rel="stylesheet"/>  
+		<link href="assets/css/common.css" rel="stylesheet"/>
+		<script src="assets/js/jquery-3.2.0.min.js" type="text/javascript"></script>
+		<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="assets/js/swiper-3.3.1.min.js" type="text/javascript"></script>
+		<script src="assets/js/common.js"></script>
+		
+	</head>
+	<body>
+		<nav class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <!-- Brand and toggle get grouped for better mobile display -->
+		    <div class="navbar-header">
+		      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		      </button>
+		      <a class="navbar-brand" href="#"><img src="images/index/logo.png"></a>
+		    </div>
+		
+		    <!-- Collect the nav links, forms, and other content for toggling -->
+		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<div class="tel"><img src="images/index/tel.png"></div>
+					<ul class="nav navbar-nav">
+		     		<li>
+			        	<a class="nav_active" href="index.html">首页</a>
+			        </li>
+			        <li>
+			        	<a class="nav_active" href="news.html">公司新闻</a>
+			        </li>
+			        <li>
+			          <a class="nav_active" href="industry.html">产业布局</a>
+			        </li>
+			        <li>
+			          <a class="nav_active" href="product.html">产品展示</a>
+			        </li>
+			        <li>
+			          <a class="nav_active" href="#">行业动态</a>
+			        </li>
+			        <li>
+			          <a class="nav_active" href="about us.html">关于我们</a>
+			        </li>
+			        <li>
+			          <a class="nav_active current" href="online.html">在线交流</a>
+			        </li>
+		      </ul>
+
+		      
+		    </div>
+
+		</nav>	
+
+		<div id="banner">
+			<img src="images/product/banner3jpg.jpg"/>
+		</div>
+		<div id="online">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">
+	   					<h3>快速提交你的需求</h3>
+	   					<hr/>
+	   					<div class="col-md-6 col-sm-6 col-xs-12  ">
+	   						<input type="text" name="name" value="您的姓名" class="form-control"/>
+	   					</div>
+	   					<div class="col-md-6 col-sm-6 col-xs-12 ">
+	   						<input type="text" name="e-mail" value="邮箱" class="form-control"/>
+	   					</div>
+	   					<div class="col-md-6 col-sm-6 col-xs-12 ">
+	   						<input type="text" name="tel" value="电话" class="form-control"/>
+	   					</div>
+	   					<div class="col-md-6 col-sm-6 col-xs-12 ">
+	   						<input type="text" name="address" value="公司名称" class="form-control"/>
+	   					</div>
+	   					<div class="col-md-12 col-sm-12	col-xs-12 ">
+	   						<textarea class="form-control text" rows="5" value="公司名称">您的需求描述
+	   						</textarea>
+	   					</div>
+	   					<div class="col-md-6 col-sm-6 col-xs-12  ">
+	   						<button>发送你的需求</button>
+	   					</div>
+	   					<div class="col-md-6 col-sm-6 col-xs-12 mail">
+	   						发送您的需求或者发送商务咨询到邮箱：hello@niceu
+	   					</div>
+						<div class="col-md-6 col-sm-6 col-xs-12 contact">
+							<h3 class="contact-tit">您也可以通过以下方式联系我们</h3>
+							<p>邮箱：hello@niceui.cn</p>
+							<p>手机：18813146300</p>
+							<p>座机：（+86）010-57281080</p>
+							<p>Q Q： 949677513 </p>
+							<p>地址：北京 昌平 霍营 国风美唐2-913</p>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-12 ">
+							<dl>
+								<dt><img src="images/about/code.jpg" alt="" /></dt>
+								<dd><img src="images/about/code2.jpg" alt="" /></dd>
+								
+							</dl>
+						</div>
+
+				</div>
+			</div>	
+			
+			</div>	
+		</div>
+		<div id="footer" class="mt-top">
+		    <p>Copyright © 2010-2016 nicedesign 京ICP备15000202号-5</p>
+		</div>
+	</body>
+	<script type="application/javascript">
+	    	$(function(){
+	    		$("input[name=name]").click(function(){
+	    			$(this).val("");
+	    		})
+	    		$("input[name=name]").blur(function(){
+	    			$(this).val("您的姓名");
+	    		})
+	    		$("input[name=e-mail]").click(function(){
+	    			$(this).val("");
+	    		})
+	    		$("input[name=e-mail]").blur(function(){
+	    			$(this).val("邮箱");
+	    		})
+	    		$("input[name=tel]").click(function(){
+	    			$(this).val("");
+	    		})
+	    		$("input[name=tel]").blur(function(){
+	    			$(this).val("电话");
+	    		})
+	    		$("input[name=address]").click(function(){
+	    			$(this).val("");
+	    		})
+	    		$("input[name=address]").blur(function(){
+	    			$(this).val("公司名称");
+	    		})
+	    		$("textarea").click(function(){
+	    			$(this).val("")
+	    		})
+	    		$("textarea").blur(function(){
+	    			$(this).val("您的需求描述")
+	    		})
+	    	})
+	    </script>
+
+</html>

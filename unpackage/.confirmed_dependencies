@@ -1,0 +1,258 @@
+{
+	"index.html": {
+		"resources": [
+			"images/service.png",
+			"assets/js/bootstrap.min.js",
+			"images/news.png",
+			"images/icon6.png",
+			"images/icon3.png",
+			"images//case_img1.jpg",
+			"images/icon2.png",
+			"images/case.png",
+			"images//case_img3.jpg",
+			"images/i_banner1.jpg",
+			"images//case_img2.jpg",
+			"images/icon4.png",
+			"images/logo.png",
+			"images/icon1.png",
+			"assets/js/jquery-3.2.0.min.js",
+			"images/icon5.png",
+			"assets/css/index.css",
+			"assets/css/swiper-3.3.1.min.css",
+			"assets/js/swiper-3.3.1.min.js",
+			"images/tel.png",
+			"images/i_banner3.jpg",
+			"assets/css/bootstrap.css",
+			"images/i_banner.jpg",
+			"images/weichat.png",
+			"images/phone_number.png",
+			"images/contact.png",
+			"images/number.png",
+			"images/more.png",
+			"images/telnumber.png",
+			"images/qqlogo.png",
+			"images/date.png",
+			"index.html",
+			"images/index/icon6.png",
+			"images/index/icon4.png",
+			"images/index/more.png",
+			"images/index/phone_number.png",
+			"images/index/icon5.png",
+			"images/index//case_img2.jpg",
+			"images/index/number.png",
+			"images/index/icon1.png",
+			"images/index/i_banner.jpg",
+			"images/index/contact.png",
+			"images/index/case.png",
+			"images/index/telnumber.png",
+			"images/index/i_banner3.jpg",
+			"images/index/icon2.png",
+			"images/index/date.png",
+			"images/index/tel.png",
+			"images/index/news.png",
+			"images/index/i_banner1.jpg",
+			"images/index/logo.png",
+			"images/index/service.png",
+			"images/index/weichat.png",
+			"images/index/icon3.png",
+			"images/index/qqlogo.png",
+			"news.html",
+			"industry.html",
+			"assets/css/common.css",
+			"product.html",
+			"images/index/icon6.svg",
+			"images/index/icon4.svg",
+			"images/index/icon3.svg",
+			"images/index/icon1.svg",
+			"images/index/icon2.svg",
+			"images/index/icon5.svg",
+			"about us.html",
+			"needs.html",
+			"images/index//case_img3.jpg",
+			"images/index//case_img1.jpg",
+			"images/index/add.svg",
+			"assets/css/default.css",
+			"assets/js/common.js",
+			"images/index/news2.png"
+		],
+		"refer": [
+			"index.html",
+			"news.html",
+			"industry.html",
+			"product.html",
+			"about us.html",
+			"needs.html"
+		]
+	},
+	"about us.html": {
+		"resources": [
+			"images/index/tel.png",
+			"assets/js/jquery-3.2.0.min.js",
+			"assets/js/bootstrap.min.js",
+			"images/index/light.jpg",
+			"assets/css/index.css",
+			"images/index/about-banner.jpg",
+			"images/index/logo.png",
+			"assets/css/bootstrap.css",
+			"news.html",
+			"images/index/light.png",
+			"industry.html",
+			"images/product/banner4.jpg.jpg",
+			"images/product/about3.jpg",
+			"images/product/about2.jpg",
+			"images/product/about.jpg",
+			"assets/css/about.css",
+			"assets/css/common.css",
+			"index.html",
+			"images/product/banner3jpg.jpg",
+			"images/about/team_6.jpg",
+			"images/about/about.png",
+			"images/about/team_4.jpg",
+			"images/about/team_3.jpg",
+			"images/about/about2.png",
+			"images/about/team_2.jpg",
+			"images/about/about3.png",
+			"images/about/team_5.jpg",
+			"needs.html",
+			"assets/css/default.css",
+			"online.html"
+		],
+		"refer": [
+			"news.html",
+			"industry.html",
+			"index.html",
+			"needs.html",
+			"online.html"
+		]
+	},
+	"news.html": {
+		"resources": [
+			"images/index/number.png",
+			"images/index/date.png",
+			"assets/css/index.css",
+			"assets/css/bootstrap.css",
+			"images/index/news-img.jpg",
+			"index.html",
+			"images/index/about-banner.jpg",
+			"assets/css/news.css",
+			"images/news/img1.jpg",
+			"images/news/img2.jpg",
+			"images/news/img3.jpg",
+			"assets/css/common.css",
+			"industry.html",
+			"product.html",
+			"images/product/banner3jpg.jpg",
+			"assets/css/default.css",
+			"newsmore.html"
+		],
+		"refer": [
+			"index.html",
+			"industry.html",
+			"product.html",
+			"newsmore.html"
+		]
+	},
+	"industry.html": {
+		"resources": [
+			"images/index/news-img.jpg",
+			"assets/css/index.css",
+			"assets/css/bootstrap.css",
+			"images/index/icon6.svg",
+			"assets/css/industry.css",
+			"images/index/icon1.svg",
+			"images/index/icon2.svg",
+			"images/index/icon3.svg",
+			"images/index/about-banner.jpg",
+			"images/index/icon5.svg",
+			"assets/css/common.css",
+			"images/index/icon4.svg",
+			"index.html",
+			"news.html",
+			"product.html",
+			"assets/js/jquery-3.2.0.min.js",
+			"assets/js/bootstrap.min.js",
+			"about us.html",
+			"images/product/banner3jpg.jpg",
+			"assets/css/default.css"
+		],
+		"refer": [
+			"index.html",
+			"news.html",
+			"product.html",
+			"about us.html"
+		]
+	},
+	"product.html": {
+		"resources": [
+			"assets/css/product.css",
+			"images/product/product3.jpg",
+			"images/product/banner.jpg",
+			"assets/css/common.css",
+			"assets/css/bootstrap.css",
+			"images/product/product.jpg",
+			"images/product/product2.jpg",
+			"index.html",
+			"industry.html",
+			"assets/js/jquery-3.2.0.min.js",
+			"assets/js/bootstrap.min.js",
+			"about us.html",
+			"images/product/banner3jpg.jpg",
+			"news.html",
+			"images/index/number.png",
+			"images/index/date.png",
+			"assets/css/default.css"
+		],
+		"refer": [
+			"index.html",
+			"industry.html",
+			"about us.html",
+			"news.html"
+		]
+	},
+	"needs.html": {
+		"resources": [
+			"assets/css/needs.css",
+			"images/product/banner3jpg.jpg",
+			"assets/css/swiper-3.3.1.min.css",
+			"assets/css/common.css",
+			"assets/css/bootstrap.css",
+			"images/about/code.jpg",
+			"index.html",
+			"images/about/code2.jpg",
+			"assets/js/swiper-3.3.1.min.js",
+			"about us.html",
+			"product.html"
+		],
+		"refer": [
+			"index.html",
+			"about us.html",
+			"product.html"
+		]
+	},
+	"newsmore.html": {
+		"resources": [
+			"images/product/banner.jpg",
+			"assets/css/swiper-3.3.1.min.css",
+			"images/news/share.svg",
+			"product.html",
+			"index.html"
+		],
+		"refer": [
+			"product.html",
+			"index.html"
+		]
+	},
+	"online.html": {
+		"resources": [
+			"news.html",
+			"assets/js/swiper-3.3.1.min.js",
+			"images/about/code2.jpg",
+			"images/about/code.jpg",
+			"assets/css/common.css",
+			"assets/css/bootstrap.css"
+		],
+		"refer": [
+			"news.html"
+		]
+	}
+}
